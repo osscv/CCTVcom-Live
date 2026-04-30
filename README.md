@@ -235,6 +235,8 @@ You are welcome to reference, fork, or build upon this project's code and approa
     <img
       alt="LINUX DO"
       src="https://github.com/user-attachments/assets/3ede9799-f05a-4436-9730-c47f66e2334a"
+      width="80"
+      height="80"
     />
   </a>
   &nbsp;&nbsp;
