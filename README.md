@@ -63,6 +63,7 @@ If you are a rights holder and believe this project facilitates infringement of 
 如您是版权持有人并认为本项目侵犯了您的合法权益，欢迎提交 Issue 或联系仓库维护者。对于合规的 DMCA 投诉，我们将及时予以处理。
 
 ---
+<img width="834" height="1000" alt="17775770411458918713749192386802" src="https://github.com/user-attachments/assets/b6c5384e-0c13-4261-a436-61b51cdf0396" />
 
 ## How It Works
 
