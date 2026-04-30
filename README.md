@@ -234,7 +234,7 @@ You are welcome to reference, fork, or build upon this project's code and approa
   <a href="https://linux.do">
     <img
       alt="LINUX DO"
-      src="https://wiki.linux.do/linuxdo_light.png"
+      src="<img width="720" height="240" alt="image" src="https://github.com/user-attachments/assets/3ede9799-f05a-4436-9730-c47f66e2334a" />"
     />
   </a>
   &nbsp;&nbsp;
