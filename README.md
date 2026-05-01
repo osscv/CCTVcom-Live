@@ -239,11 +239,4 @@ You are welcome to reference, fork, or build upon this project's code and approa
       width="120"
     />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.dkly.net">
-    <img
-      alt="DKLY Blog"
-      src="https://www.dkly.net/image/e6d8e7b607d3ac82a4894570997d152a.png"
-    />
-  </a>
 </p>
