@@ -232,13 +232,3 @@ You are welcome to reference, fork, or build upon this project's code and approa
 > **📌 请注意 / Note:** 本项目的流捕获思路、MSE hook 方式及 HLS 处理算法均为**本项目原创首发**。如需二次开发或参考使用，请确保**无商业用途**且**无违法意图**。若您的项目基于本项目思路进行了延伸，欢迎注明出处并附上本仓库链接。
 
 
-友链（Not AFF)：
-<p align="center">
-  <a href="https://linux.do">
-    <img
-      alt="LINUX DO"
-      src="https://github.com/user-attachments/assets/3ede9799-f05a-4436-9730-c47f66e2334a"
-      width="120"
-    />
-  </a>
-</p>
